@@ -47,6 +47,7 @@ class ExchangeMoneyPro5 {
   }
 }
 
+
 public class Problem5 {
 
   public static List<Integer> solution(int money) {

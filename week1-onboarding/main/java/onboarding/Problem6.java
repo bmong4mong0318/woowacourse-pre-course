@@ -46,7 +46,7 @@ class ValidatorPro6 {
   }
 
   public boolean isKorean(String str) {
-    return Pattern.matches("[가-힣]*$", str);
+    return Pattern.matches("[ㄱ-힣]*$", str);
   }
 
   public void validateNickName(List<List<String>> forms) {

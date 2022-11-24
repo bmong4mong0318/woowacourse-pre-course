@@ -43,7 +43,6 @@ class ConvertWordPro4 {
         .collect(Collectors.toList());
   }
 }
-
 class StrAndLstPro4 {
 
   public static List<Character> stringToList(String string) {
